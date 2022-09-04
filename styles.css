@@ -1,0 +1,24 @@
+
+@font-face { 
+	font-family: Shrek;
+	src: url(Shrek.ttf);
+	font-weight: bold;
+}
+
+h1 {
+	color:  #4b662f;
+	text-align: center;
+	font-family: Shrek;
+	font-size: 100px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+body {
+	background-color: #C4D300;
+}
